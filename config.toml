@@ -1,5 +1,5 @@
 # End your baseURL with a `/` trailing slash, e.g. `https://example.com/`.
-baseURL = "https://chuyentute.netlify.com"
+baseURL = "/"
 
 languageCode = "en-us"
 title = "Chuyen Tu Te"
