@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Muli');
 /* reset */
 
 * {
@@ -14,7 +14,7 @@ html {
 }
 
 body {
-	font-family: 'Merriweather', Helvetica, Arial, sans-serif;
+	font-family: 'Muli', Helvetica, Arial, sans-serif;
 	padding: 0rem;
 	margin: 0 auto;
 	width: 100%;
@@ -112,7 +112,7 @@ footer {
 
 aside {
 	font-size: .9em;
-	line-height: .9;
+	line-height: 1;
 	color: #7a8288;
 }
 
