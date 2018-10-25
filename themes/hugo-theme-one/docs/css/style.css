@@ -20,7 +20,7 @@ header {
 }
 
 body {
-	font-family: 'Merriweather', Helvetica, Arial, sans-serif;
+	font-family: 'Calibri', Helvetica, Arial, sans-serif;
     padding: 0rem;
     margin: 0 auto;
     width: 100%;
@@ -106,7 +106,7 @@ footer {
 
 aside {
 	font-size: .9em;
-	line-height: .9;
+	line-height: 1; /* default: .9 */
 	color: #7a8288;
 }
 
